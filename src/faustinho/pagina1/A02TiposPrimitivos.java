@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A02FaustinhoTiposPrimitivos {
+public class A02TiposPrimitivos {
     public static void main(String[] args) {
         int idade = 10;
         long numeroGrande = 9999999;

@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A04FaustinhoOperadores {
+public class A04Operadores {
     public static void main(String[] args) {
         // + - * /
         double n1 = 10;

@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A09FaustinhoEstruturasCondicionais05 {
+public class A09EstruturasCondicionais05 {
     public static void main(String[] args) {
         byte dia = 7;
 

@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A07FaustinhoEstruturasCondicionais03 {
+public class A07EstruturasCondicionais03 {
     public static void main(String[] args) {
         // Doar se salario > 5000
         double salario = 5000;

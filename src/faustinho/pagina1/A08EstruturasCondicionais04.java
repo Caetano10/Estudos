@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A08FaustinhoEstruturasCondicionais04 {
+public class A08EstruturasCondicionais04 {
     public static void main(String[] args) {
         double salario = 70000;
         double taxa1 = salario * 0.097;

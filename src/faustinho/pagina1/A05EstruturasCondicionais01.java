@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A05FaustinhoEstruturasCondicionais01 {
+public class A05EstruturasCondicionais01 {
     public static void main(String[] args) {
 
         int idade = 15;

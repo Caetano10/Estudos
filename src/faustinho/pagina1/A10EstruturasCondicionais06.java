@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A10FaustinhoEstruturasCondicionais06 {
+public class A10EstruturasCondicionais06 {
     public static void main(String[] args) {
         //Utilizandp switch e dados valores de 1 a 7, imprima se é dia util ou final de semana
         //Considerando domingo como 1

@@ -1,6 +1,6 @@
 package faustinho.pagina1;
 
-public class A06FaustinhoEstruturasCondicionais02 {
+public class A06EstruturasCondicionais02 {
     public static void main(String[] args) {
         // idade < 15 infantil
         // idade >=15 && idade < 18 juvenil
