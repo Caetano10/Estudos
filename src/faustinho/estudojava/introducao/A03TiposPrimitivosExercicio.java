@@ -1,4 +1,4 @@
-package faustinho.pagina1;
+package faustinho.estudojava.introducao;
 
 /*
 Crie variáveis para os campos descritros abaixo entre <> e imprima a seguinte mensagem:

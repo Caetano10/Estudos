@@ -1,4 +1,4 @@
-package faustinho.pagina1;
+package faustinho.estudojava.introducao;
 
 public class A08EstruturasCondicionais04 {
     public static void main(String[] args) {
